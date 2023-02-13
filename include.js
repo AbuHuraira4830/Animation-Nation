@@ -6526,6 +6526,16 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+  let cards = [
+  //  Add your card in this section
+  {
+    artName: 'Newton Craddle',
+    pageLink: './Art/Huraira4830/index.html',
+    imageLink: './Art/Joy/triangle/triangle.gif',
+    author: 'Huraira4830',
+    githubLink: 'https://github.com/AbuHuraira4830'
+  }
+];
 ];
 
 // +--------------------------------------------------------------------------------+
